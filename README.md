@@ -1,4 +1,5 @@
 <ul>
+ <li>SC Hackfest Round 2 using Python </li>
  <li>Tên đội thi: SHINE TEAM </li>
   <li>Tên thành viên:
   <ul>
